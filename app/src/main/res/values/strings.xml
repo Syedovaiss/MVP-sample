@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MVPSample</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="invalid_cred">Invalid Credentials</string>
+    <string name="logged_in">Logged In Successfully</string>
+    <string name="on_empty">Please enter %s</string>
+    <string name="_01">01</string>
+    <string name="jdfsjsd">jdfsjsd</string>
 </resources>
